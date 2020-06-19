@@ -1,5 +1,4 @@
-﻿  stdafx.cpp
-  Lab11.cpp
+﻿  Lab11.cpp
 d:\subject\osi2\lab\lab11\lab11\lab11.cpp(14): warning C4101: fp: неиспользованная локальная переменная
-d:\subject\osi2\lab\lab11\lab11\lab11.cpp(44): warning C4101: fp: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab11\lab11\lab11.cpp(43): warning C4101: fp: неиспользованная локальная переменная
   Lab11.vcxproj -> D:\Subject\OSI2\Lab\Lab11\Debug\Lab11.exe

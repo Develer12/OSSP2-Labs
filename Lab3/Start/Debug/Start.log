@@ -1,2 +1,2 @@
-﻿Start.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl CurrDate(void)" (?CurrDate@@YAHXZ) в функции _main
-D:\Subject\OSI2\Lab\Lab3\Debug\Start.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+﻿  Start.cpp
+  Start.vcxproj -> D:\Subject\OSI2\Lab\Lab3\Debug\Start.exe

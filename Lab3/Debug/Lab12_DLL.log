@@ -1,10 +1,6 @@
 ﻿C:\Programs\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab12_DLL.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  stdafx.cpp
-  dllmain.cpp
   Lab12_DLL.cpp
 d:\subject\osi2\lab\lab3\lab12_dll.cpp(16): warning C4101: dwBytesWritten: неиспользованная локальная переменная
 d:\subject\osi2\lab\lab3\lab12_dll.cpp(15): warning C4101: hFile: неиспользованная локальная переменная
-  Создание кода...
 d:\subject\osi2\lab\lab3\lab12_dll.cpp(62): warning C4172: возвращение адреса локальной или временной переменной : str
-     Создается библиотека D:\Subject\OSI2\Lab\Lab3\Debug\Lab3.lib и объект D:\Subject\OSI2\Lab\Lab3\Debug\Lab3.exp
   Lab12_DLL.vcxproj -> D:\Subject\OSI2\Lab\Lab3\Debug\Lab3.dll
